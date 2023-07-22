@@ -41,10 +41,6 @@ const IndexPage = () => {
         <p>
           This is a collection of electronic gadgets by rishu telecom{' '}
         </p>
-        <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
-        </p>
       </div>
 
       {/* Collection Container */}
