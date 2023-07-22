@@ -168,12 +168,12 @@ const Footer = (prop) => {
               </div>
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
-                <Button target={true} href="https://www.matterdesign.com.au/">
-                  Matter.
-                </Button>{' '}
+                <Button target={true} href="https://www.vishalkr.netlify.com/">
+                  Rishu Telecom.
+                </Button>{' '} 
                 Powered by{' '}
-                <Button target={true} href="https://jamm.matter.design/">
-                  JAMM.™
+                <Button target={true} href="https://www.vishalkr.netlify.com/">
+                  Vishal
                 </Button>
               </span>
             </div>

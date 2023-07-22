@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'High quality is our first priority'}
+        subtitle={'Discover best electronic gadgets now'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -39,8 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          This is a collection of electronic gadgets by rishu telecom{' '}
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
@@ -98,7 +97,7 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about Rishu Telecom'}
         quote={
           '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
         }

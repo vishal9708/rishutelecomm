@@ -1,6 +1,6 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
+    { "value": "INR", "label": "Indian Rupee" },
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
@@ -9,13 +9,13 @@
   "languageList": [
     { "value": "english", "label": "English" },
     { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    { "value": "Hindi", "label": "Hindi" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "instagram": "https://instagram.com/rishu_telecom_",
+    "facebook": "https://www.facebook.com/rishusoni",
+    "phone": "https://twitter.com/rishusoni",
+    "youtube": "https://www.youtube.com/"
   },
   "paymentOptions": {
     "visa": true,
@@ -24,20 +24,11 @@
   },
   "footerLinks": [
     {
-      "subTitle": "Info",
+      "subTitle": "Address",
       "links": [
-        {
-          "text": "About Us",
-          "link": "/about"
-        },
-        {
-          "text": "Journal",
-          "link": "/blog"
-        },
-        {
-          "text": "Privacy Policy",
-          "link": "/support#policy"
-        }
+       {
+          "text": "Shop No. 1 Lucky Garden 50ft Road,         Shani Bazaar Rd, Nangloi, New Delhi, Delhi 110041"
+       }
       ]
     },
     {
@@ -56,15 +47,19 @@
           "link": "/support#returns"
         },
         {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
+          "text": "About Us",
+          "link": "/about"
+        },
+        {
+          "text": "Privacy Policy",
+          "link": "/support#policy"
         }
       ]
     }
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Electronics",
       "menuLink": "/shop",
       "category": [
         {
@@ -129,13 +124,8 @@
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Jewellery",
       "menuLink": "/blog",
-      "category": null
-    },
-    {
-      "menuLabel": "About",
-      "menuLink": "/about",
       "category": null
     }
   ],
